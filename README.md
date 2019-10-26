@@ -1,4 +1,4 @@
-# ExVivoSpace
+# Ex Vivo Space
 Ex-Vivo Space LLC dba The Ex-Vivo Lazarus Project
 
 Digital Entity Resurrection using Artificial Machine Learned Intelligence (AMLI)
@@ -9,15 +9,15 @@ The [Machine Elves](https://github.com/orgs/MMINAIL/teams/machine-elves) at the 
 
 Tweaks of improvement will no doubt come as the Artificial Intelligence (AI) behind the model-construct learns exponentially via Machine Learning (ML) the intricacies and the neural network behind the vast body of work performed by the subject entity during their lives 'en vivo'.
 
-Share on Twitter
+## Share on Twitter
 
 Learn the story behind 'The Ex-Vivo Lazarus Project' and help us meet our campaign goal via @indiegogo C=> [ExVivoSpace](https://igg.me/at/ExVivoSpace) #GotAMLI? #TryExVivo #LazarusProject
 
-Equipment Funding
+## Equipment Funding
 
 In addition, funding for equipment to faciliate the Machine Learning of our algorithms is alternatively offered thru @indiegogo C=> [McKennAI](https://www.indiegogo.com/projects/the-digital-resurrection-of-terence-mckenna)
 
-Git Hub Invitations
+## Git Hub Invitations
 
 Invitations for experienced coding entities well-schooled in the art of Artificial Machine Learned Intelligence, or AMLI have been sent from the [Machine Elves](https://github.com/orgs/MMINAIL/teams/machine-elves ) team portal to selected individuals.
 
